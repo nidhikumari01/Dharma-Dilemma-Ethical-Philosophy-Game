@@ -1,4 +1,4 @@
-# 🧠 Dharma Dilemma: Ethical Philosophy Game
+# Dharma Dilemma: Ethical Philosophy Game
 
 > “What would Krishna do? What would Kant say? Your choices define your Dharma.”
 
@@ -6,7 +6,7 @@
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 In an age of complex decisions, this project helps users:
 - Explore personal ethics through action
@@ -17,7 +17,7 @@ Perfect for students, philosophy lovers, and curious minds alike.
 
 ---
 
-## 🕹️ How It Works
+##  How It Works
 
 1. **Scenario Appears**  
    You’re presented with a real-world ethical dilemma.
@@ -33,7 +33,7 @@ Perfect for students, philosophy lovers, and curious minds alike.
 
 ---
 
-## 🧪 Example Scenario
+## Example Scenario
 
 **Scenario:**  
 > Your sibling committed a crime. You're the only witness.
@@ -49,7 +49,7 @@ Perfect for students, philosophy lovers, and curious minds alike.
 
 ---
 
-## 🧱 Tech Stack
+## Tech Stack
 
 | Tech            | Description                                  |
 |-----------------|----------------------------------------------|
@@ -79,7 +79,7 @@ openai.base_url = "https://api.groq.com/openai/v1/chat/completions"
 
 4. gemma-7b-it
 
-## 🔮 Future Features
+## Future Features
 🧑‍🤝‍🧑 Multiplayer dilemma debates
 
 🪙 Scoring based on philosophical alignment
@@ -93,7 +93,7 @@ openai.base_url = "https://api.groq.com/openai/v1/chat/completions"
 ## Live Demo
 Coming soon at dharma-dilemma.vercel.app (or Streamlit Cloud).
 
-## 🙏 Acknowledgments
+## Acknowledgments
 Inspired by the Bhagavad Gita, Western moral philosophy, and your everyday life choices.
 
 Powered by Groq and Streamlit for blazing-fast, accessible design.
