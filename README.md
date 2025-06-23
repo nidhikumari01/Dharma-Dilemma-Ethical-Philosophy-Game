@@ -65,12 +65,10 @@ Perfect for students, philosophy lovers, and curious minds alike.
 We're using Groq's hosted LLaMA 3 models via the OpenAI-compatible SDK.
 To query them:
 
-python
-Copy
-Edit
 openai.api_key = os.getenv("GROQ_API_KEY")
 openai.base_url = "https://api.groq.com/openai/v1/chat/completions"
-Supported models include:
+
+## Supported models include:
 
 1. llama3-8b-8192
 
