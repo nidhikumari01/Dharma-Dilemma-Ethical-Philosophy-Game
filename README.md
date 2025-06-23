@@ -69,7 +69,7 @@ python
 Copy
 Edit
 openai.api_key = os.getenv("GROQ_API_KEY")
-openai.base_url = "https://api.groq.com/openai/v1"
+openai.base_url = "https://api.groq.com/openai/v1/chat/completions"
 Supported models include:
 
 1. llama3-8b-8192
