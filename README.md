@@ -91,7 +91,7 @@ openai.base_url = "https://api.groq.com/openai/v1/chat/completions"
 🌐 Multilingual support (e.g., Hindi, Latin, Tamil)
 
 ## Live Demo
-Coming soon at dharma-dilemma.vercel.app (or Streamlit Cloud).
+https://dharma-dilemma-ethical-philosophy-game.onrender.com/
 
 ## Acknowledgments
 Inspired by the Bhagavad Gita, Western moral philosophy, and your everyday life choices.
