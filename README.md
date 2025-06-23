@@ -66,6 +66,7 @@ We're using Groq's hosted LLaMA 3 models via the OpenAI-compatible SDK.
 To query them:
 
 openai.api_key = os.getenv("GROQ_API_KEY")
+
 openai.base_url = "https://api.groq.com/openai/v1/chat/completions"
 
 ## Supported models include:
